@@ -32,16 +32,13 @@ An implementation of COLREGs-compliant collision avoidance for Autonomous Surfac
 
 
 ## Results
-Successfully tested across multiple maritime scenarios with:
-- 98.5% situation classification accuracy
-- 96.7% decision consistency
-- <150ms response time
+
 
 ## Citation
-[Include paper reference when published]
+
 
 ## License
-[Specify license]
+
 
 ## Contributors
 - Dr Pouria Sadiya - pouria.sarhadi@gmail.com
