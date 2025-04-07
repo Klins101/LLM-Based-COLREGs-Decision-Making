@@ -41,5 +41,5 @@ An implementation of COLREGs-compliant collision avoidance for Autonomous Surfac
 
 
 ## Contributors
-- Dr Pouria Sadiya - pouria.sarhadi@gmail.com
+- Dr Pouria Sarhadi - pouria.sarhadi@gmail.com
 - Wasif Naeem - w.naeem@ee.qub.ac.uk
